@@ -28,7 +28,7 @@ class HomePage extends StatelessWidget {
           bottom: TabBar(
             tabs: [
               Tab(icon: Icon(Icons.home), text: 'Welcome'),
-              Tab(icon: Icon(Icons.help_outline), text: 'Help'),
+              Tab(icon: Icon(Icons.help_outline), text: 'Home'),
                Tab(icon: Icon(Icons.help_outline), text: 'Help'),
               Tab(icon: Icon(Icons.info_outline), text: 'About'),
             ],
